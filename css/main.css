@@ -39,6 +39,31 @@ hr.punto {border: 3px dotted #B0ADB7; margin-top: 30px ;}
 
  footer hr.footer{margin-top: 40px; border:1px solid #4C4853;}
 
+.footer2 div > p:first-child{font-family: 'Roboto Slab';}
+
  .footer2 div{text-align: left; color:#fff; padding-left: 35px; margin-top: 40px;}
- .footer2 div:first-child > p:first-child{font-family: 'Roboto Slab'}
- .footer2 div:first-child ul
+ .footer2 div:first-child ul {max-width: 150px;}
+ .footer2 div:first-child ul li {font-size: 10px; margin-top: 20px;}
+ .footer2 div:first-child ul li p:last-child{margin-top: 5px;}
+ .footer2 div:first-child ul li p:first-child{margin-bottom: 0px; color:#999AB6;}
+
+ .footer2 div:nth-child(2) > p{ display: inline-block;}
+ .footer2 div:nth-child(2) button{font-size: 10px; background-color: #EE2465; border-radius: 5px; font-family: 'Roboto Slab'; display: inline-block; padding: 3px 5px 3px 5px; margin-left: 8px;}
+ .footer2 div:nth-child(2) ul {max-width: 185px; font-size: 10px;}
+ .footer2 div:nth-child(2) ul li p:first-child{margin-bottom: 0px;}
+ .footer2 div:nth-child(2) ul li p:nth-child(2){margin-top: 0px; padding-top: 0px; color:#999AB6;}
+ .footer2 div:nth-child(2) ul li p:last-child{color:#999AB6;}
+ .footer2 div:nth-child(2) ul li:last-child {margin-top: 30px;}
+ .footer2 div:nth-child(2) span {color:#EE2465;}
+
+ .footer2 div:nth-child(3) p:nth-child(2){font-family: 'Roboto Slab'; font-size: 11px; margin-bottom: 0px;}
+ .footer2 div:nth-child(3) p:nth-child(3){ font-size: 10px; margin-top: 0px; padding-top: 0px; color: #999AB6;}
+  .footer2 div:nth-child(3) p:last-child{ font-size: 16px; margin-top: 15px; padding-top: 0px; color: #EE2465; font-family: 'Roboto Slab';}
+
+ .footer2 div:last-child {padding-right: 100px; margin-bottom: 150px;}
+ .footer2 div:last-child div{float: left; margin-left: 0px;padding-left: 0px; margin-top: 10px; background-color: #1B191F;}
+ .footer2 div:last-child input{font-size: 11px; display: inline-block; background-color: #1B191F; padding-top:8px; padding-bottom:8px;padding-left:8px; border:none; max-width: 120px;}
+ .footer2 div:last-child span{display: inline-block; background-color: #1B191F; color: #fff; padding-right: 8px; font-family: 'Roboto Slab'}
+ .footer2 div:last-child p:nth-child(3),.footer2 div:last-child p:last-child{color:#999AB6; font-size: 8px; display: block; margin-top: 4px; margin-bottom: 0px;}
+
+
