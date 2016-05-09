@@ -1,0 +1,37 @@
+
+.seccion1 h1 {font-family: 'Roboto Slab'; padding-top: 30px; color: #322E39;}
+.seccion1 > div:last-child{padding-left: 40px; padding-right: 120px;}
+.seccion1 img{margin:35px; min-height: 300px;}
+.seccion1 p {margin-top: 25px; font-size: 15px;} 
+.seccion1 button {background-color: #B0ADB7; margin-top: 30px; color: #fff;}
+hr {border: 3px dotted #B0ADB7; margin-top: 30px ;}
+
+.proyectos {padding-left: 35px; margin-bottom: 80px;}
+.proyectos h1 {font-family: 'Roboto Slab'; padding-top: 30px; color: #322E39;}
+.proyectos ul li{display: inline-block; margin-right: 15px; font-family: 'Roboto Slab'; font-weight: 700;}
+.proyectos .iconos{ margin-right: 35px; }
+.proyectos ul:last-child{display: block; margin-top: 70px; text-align: center;}
+.proyectos ul:last-child li{margin-top: 20px; max-width: 504px; display: inline-block;}
+.proyectos ul:last-child li img{display: block;}
+.proyectos ul:last-child li h5{font-family: 'Open Sans'; font-weight: 700; margin-left: 0px; padding-left: 0px;}
+.proyectos ul:last-child li p{font-family: 'Open Sans'; font-weight: 400; margin-left: 0px; padding-left: 0px;}
+.proyectos ul:last-child li p{display: block; margin-top: 40px;}
+.proyectos ul:last-child li ul {margin-top: 0px; text-align: right; padding: 0px;}
+.proyectos ul:last-child li ul li{margin-top: 10px; margin-right: 8px; color:#D1D1D3;}
+ button.load {background-color: #6C6577; color: #fff; display: block; margin: auto;}
+
+ hr:last-child{margin-top: 80px;}
+ .follow {margin-bottom: 50px; }
+ .follow div div{max-width: 200px; float: right; align-items-align: center;}
+ .follow img{margin-left: 35px; max-width: 400px;min-height: 90px; float:right; display: block;}
+ .follow button{background-color: #6C6577; color: #fff; display: block; float: right;}
+ .follow h3 {font-family: 'Roboto Slab';}
+
+ footer{background-color: #322E39; color:#fff; height: 600px;}
+ .footer1 div{text-align: center;}
+.footer1  h2{font-family: 'Open Sans'; font-weight: 800; margin-top: 40px; color:#4C4853;}
+ .footer1 h2 span{font-family: 'Dosis'; font-weight: 300;}
+ .footer1 div p{color: #999AB6; margin-top: 50px; padding-left: 30px; padding-right: 30px; font-family: 'Roboto Slab';}
+ .footer1 div ul{margin-top: 50px;}
+ .redes li{display: inline-block;}
+ .redes li div{color:#4C4853; border-radius: 50%; width: 40px; border:1px dotted #fff; padding: 3px;}
